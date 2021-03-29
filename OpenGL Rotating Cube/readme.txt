@@ -1,4 +1,2 @@
-Please try running the code after installing your own library. 
-Otherwise, if it doesn't work, I'm not responsible. 
-Release mode, x86 architecture.
+Please try running the code after installing OpenGL library. 
 https://www.youtube.com/watch?v=elvjh3jFSS8
